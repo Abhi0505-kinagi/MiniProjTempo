@@ -1,0 +1,10 @@
+Requirements analysis:
+
+Title:Calculator
+
+Functional Requirement
+
+FUNCTIONS                                        ASSIGNMENT                            
+1.it should add two numbers  ->A
+2.it should minus two numbers ->B
+3.it should 

@@ -1,0 +1,11 @@
+Requirements analysis:
+
+Title: Calculator
+
+Functional Requiremenst
+FUNCTIONS                                     ASSIGNIES               STATUS
+1. it should add two numbers                ->ABHISHEK   
+2. it should minus two numbers               ->KARAN
+3. it should divide two numbers             ->GANESH
+4. it should return mod of two numbers      ->SPOORTI
+5. it should return multiplicatin of two numbers ->ARUN
